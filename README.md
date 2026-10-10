@@ -1,10 +1,16 @@
 # Lumerian Link
 
+[Download APK / APK 다운로드](https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_v1.0.0.apk) · [Latest release / 최신 릴리스](https://github.com/BieupHieut/Lumeria-Link/releases/latest)
+
 ## English
 
 **Your captured moments, connected to your Android device.**
 
 Lumerian Link connects a LUMIX camera to an Android phone or tablet over USB. Transfer original photos, preview new shots, and check camera usage information in one app.
+
+<p align="center">
+  <img src="https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_Introduction_EN_v1.png" alt="Lumerian Link app introduction in English" width="600">
+</p>
 
 ### Features
 
@@ -18,7 +24,9 @@ Lumerian Link connects a LUMIX camera to an Android phone or tablet over USB. Tr
 
 ### Download
 
-Open this repository’s **Releases** page and download the latest APK from **Assets**.
+Download the [latest APK](https://github.com/BieupHieut/Lumeria-Link/releases/latest) from **Assets**.
+
+[APK installation guide (English)](https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_APK_Installation_EN_v1.png)
 
 Illustrated installation and app introduction guides are available as separate images.
 
@@ -67,6 +75,10 @@ Lumerian Link is an independent project and is not an official Panasonic applica
 
 Lumerian Link는 LUMIX 카메라와 Android 스마트폰·태블릿을 USB로 연결하는 앱입니다. 원본 사진 전송, 새로 촬영한 사진 미리보기, 카메라 사용 정보 조회를 한곳에서 제공합니다.
 
+<p align="center">
+  <img src="https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_Introduction_KO_v1.png" alt="Lumerian Link 한국어 앱 소개" width="600">
+</p>
+
 ### 주요 기능
 
 - RAW/JPG 원본 자동 저장
@@ -79,7 +91,9 @@ Lumerian Link는 LUMIX 카메라와 Android 스마트폰·태블릿을 USB로 �
 
 ### 다운로드
 
-이 저장소의 **Releases**에서 최신 버전을 열고 **Assets**의 APK를 다운로드하세요.
+[최신 릴리스](https://github.com/BieupHieut/Lumeria-Link/releases/latest)를 열고 **Assets**의 APK를 다운로드하세요.
+
+[APK 설치 안내 (한국어)](https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_APK_Installation_KO_v2.png)
 
 APK 설치 안내와 앱 소개는 별도 이미지로도 제공됩니다.
 
