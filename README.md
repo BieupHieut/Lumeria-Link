@@ -9,8 +9,12 @@
 Lumerian Link connects a LUMIX camera to an Android phone or tablet over USB. Transfer original photos, preview new shots, and check camera usage information in one app.
 
 <p align="center">
-  <img src="https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_Introduction_EN_v1.png" alt="Lumerian Link app introduction in English" width="600">
+  <img src="docs/images/Lumerian_Link_Basic_Guide_EN_v3.png" alt="Lumerian Link basic guide: camera model, firmware, shutter count, original transfers and preview" width="600">
 </p>
+
+*Illustrative app screen. Camera information and available features vary by model.*
+
+[View full-size guide](docs/images/Lumerian_Link_Basic_Guide_EN_v3.png)
 
 ### Features
 
@@ -76,8 +80,12 @@ Lumerian Link is an independent project and is not an official Panasonic applica
 Lumerian Link는 LUMIX 카메라와 Android 스마트폰·태블릿을 USB로 연결하는 앱입니다. 원본 사진 전송, 새로 촬영한 사진 미리보기, 카메라 사용 정보 조회를 한곳에서 제공합니다.
 
 <p align="center">
-  <img src="https://github.com/BieupHieut/Lumeria-Link/releases/download/v1.0.0/Lumerian_Link_Introduction_KO_v1.png" alt="Lumerian Link 한국어 앱 소개" width="600">
+  <img src="docs/images/Lumerian_Link_Basic_Guide_KO_v3.png" alt="Lumerian Link 기본 안내: 모델명, 펌웨어, 셔터수, 원본 전송 및 미리보기" width="600">
 </p>
+
+*안내용 예시 화면입니다. 표시되는 카메라 정보와 지원 기능은 기종에 따라 다릅니다.*
+
+[안내 이미지 크게 보기](docs/images/Lumerian_Link_Basic_Guide_KO_v3.png)
 
 ### 주요 기능
 
